@@ -1,6 +1,0 @@
-red
-blue
-orange
-green
-purple
-cyan

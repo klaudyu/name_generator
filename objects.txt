@@ -1,0 +1,12 @@
+cube
+plant
+table
+dwarf
+bread
+cup
+phone
+bed
+mouse
+building
+plane
+woman

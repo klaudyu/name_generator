@@ -2050,9 +2050,6 @@ pushy
 putrid
 puzzled
 puzzling
-quackish
-quacky
-quaint
 qualified
 quality
 queasy
